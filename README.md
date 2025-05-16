@@ -1,5 +1,3 @@
-## Network Penetration Testing with Real-World Exploits and Security Remediation
-
 ## Project Overview
 
 This project focuses on simulating real-world network exploitation and defense scenarios using common tools and methods used in the field of cybersecurity. The objective is to provide hands-on experience in identifying vulnerabilities, exploiting them, and implementing security measures to remediate the identified risks.
