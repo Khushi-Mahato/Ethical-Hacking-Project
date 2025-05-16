@@ -21,7 +21,7 @@ This project focuses on simulating real-world network exploitation and defense s
 
 ## 💡 Visual Flowchart
 
-
+```plaintext
 [ Network Scanning ] → [ Reconnaissance ] → [ Enumeration ] → [ Exploitation ]
             ↓                  ↓                  ↓                 ↓
    Basic Scan (nmap)   Hidden Ports, OS, Service  Info Gathering  Exploit 3 Services
