@@ -130,17 +130,10 @@ Set a simple password (e.g., 12345, hello, 987654321).
 ```bash
 cat /etc/passwd
 ```
-Example entry to be added in Metasploit:
-```ruby
-khus:x:1001:1001:khushi,,,:/home/khus:/bin/bash
-```
+
 ### Get password hash:
 ```bash
 cat /etc/shadow
-```
-Example hash:
-```perl
-khus:$1$8nWuasXV$pk6ZABfqT9NoHv1pPX8Rj.
 ```
 
 🔓 Cracking Password Hashes
